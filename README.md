@@ -2,9 +2,9 @@
 
 My name is Mr. Udo,K. I am the teacher piloting the new Networking program at Dominguez High School. Welcome to our site!
 
-<div align="center">
-    <img src="[https://picsum.photos/id/247/300/300](https://user-images.githubusercontent.com/90793073/227299174-08045597-06c6-46b6-aff7-0ebadf2f822e.png)">
-</div>
+<p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
 
 ![image](https://user-images.githubusercontent.com/90793073/227299174-08045597-06c6-46b6-aff7-0ebadf2f822e.png) = 100x100
 
