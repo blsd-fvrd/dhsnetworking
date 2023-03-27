@@ -2,6 +2,10 @@
 
 My name is Mr. Udo,K. I am the teacher piloting the new Networking program at Dominguez High School. Welcome to our site!
 
+<div align="center">
+    <img src="[https://picsum.photos/id/247/300/300](https://user-images.githubusercontent.com/90793073/227299174-08045597-06c6-46b6-aff7-0ebadf2f822e.png)">
+</div>
+
 ![image](https://user-images.githubusercontent.com/90793073/227299174-08045597-06c6-46b6-aff7-0ebadf2f822e.png) = 100x100
 
 Our students are taught that they are leaders (think kings, check out their crowns)
